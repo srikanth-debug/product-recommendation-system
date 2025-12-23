@@ -21,8 +21,8 @@ This project demonstrates **real-world ML engineering**, not just model training
 ## 🧠 Problem Statement
 
 E-commerce platforms need to recommend relevant products to users based on historical interactions such as ratings, clicks, or purchases.
-
 **Objective:**  
+
 Build a recommendation system that suggests **Top-N products** to a user using historical **user–product interaction data**.
 
 ---
@@ -141,7 +141,7 @@ Real ML pipelines
 Production deployment
 API-based inference
 Docker & system-level debugging
-Strong project for ML Engineer / Data Scientist interviews.
+
 
 ---
 
