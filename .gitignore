@@ -7,3 +7,5 @@ __pycache__/
 
 # model artifacts (optional – see note below)
 models/*.pkl
+mlflow.db
+mlruns/
